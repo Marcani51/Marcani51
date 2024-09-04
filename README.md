@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=Marcani51&icon=4&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
 I'm a passionate Software Engineer r with a demonstrated history of working in the information technology and services industry. Skilled in Web Development , C#, NET Core, Net, Node.Js,Angular and VueJs Framework Strong engineering professional as a Fullstack and Backend developer
 
@@ -19,6 +20,6 @@ I'm a passionate Software Engineer r with a demonstrated history of working in t
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Marcani51&icon=4&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
