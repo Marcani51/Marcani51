@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate Software Engineer r with a demonstrated history of working in the information technology and services industry. Skilled in Web Development , C#, NET Core, Net, Node.Js and Angular Framework Strong engineering professional as a Fullstack and Backend developer
+I'm a passionate Software Engineer r with a demonstrated history of working in the information technology and services industry. Skilled in Web Development , C#, NET Core, Net, Node.Js,Angular and VueJs Framework Strong engineering professional as a Fullstack and Backend developer
 
 
 ## 🌐 Socials:
